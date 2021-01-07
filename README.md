@@ -1,6 +1,6 @@
-# sensor_check_app
+# Destini
 
-A new Flutter application.
+A Story-based game like application that gives user some choices to slect from, which eventually affects the story and its ending.
 
 ## Getting Started
 
